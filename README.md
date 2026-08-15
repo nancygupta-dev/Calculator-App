@@ -1,5 +1,5 @@
 # Calculator App
-A simple calculator Androidx application built using Kotlin and Android Studio.
+A simple calculator Android application built using Kotlin and Android Studio.
 
 # Features
 - Basic arithmetic calculations

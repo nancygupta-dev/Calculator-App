@@ -17,3 +17,13 @@ This is my first Android application project, created while learning Android dev
 
 # Author
 Nancy Gupta
+
+
+
+## Screenshot 
+
+### Calculator
+
+![Calculator](Screenshot_20260912_232041.jpg)
+
+![Calculator Result](Screenshot_20260912_232026.jpg)
